@@ -1,0 +1,182 @@
+body{
+	margin:0;
+
+	padding:0;
+}
+
+.tophead_section {
+}
+
+.tophead {
+	    width: 70%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.line{
+	width:70%;
+}
+
+.display {
+    width: 50%;
+    float: left;
+}
+
+.display img{
+	float:left;
+}
+
+.display h4 {
+	float:left;
+}
+
+.icons_section {
+    float: left;
+    width: 50%;
+}
+
+.icon {
+}
+
+.icon ul{
+    display: block;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+.icon ul li{
+	    display: inline-block;
+    list-style: none;
+}
+
+.icon ul li a{
+}
+.menu_section{
+}
+
+.menu {
+	    width: 70%;
+    margin: 0 auto;
+}
+
+.menu ul{
+	    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+.menu ul li {
+	display: inline-block;
+    list-style: none;
+	padding-right: 5px;
+}
+
+.menu ul li a{
+	    text-decoration: none;
+            color: rgb(89, 84, 84);
+}
+
+.middle_section {
+    background: url(../images/s.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    position: relative;
+}
+
+.content{
+    width: 70%;
+    margin: 0 auto;
+    text-align:center;
+        padding: 60px 0px;
+}
+
+.content p{
+
+}
+
+.middle {
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-36%);
+}
+
+.middle p{
+}
+
+.button {
+	    background:#2CC26B;
+    padding: 8px;
+    text-decoration: none;
+}
+.top-footer-background{
+	background:rgba(2, 2, 2, 0.71);
+}
+.top_footer_section {
+	width: 70%;
+    overflow: hidden;
+    margin: 0 auto;
+    padding: 74px 0px;
+}
+
+.top_footer {
+    float: left;
+    width: 50%
+}
+
+.top_footer h3{
+}
+.footer {
+width:70%;
+margin: 0px auto;
+}
+
+.footer p{
+}
+
+.button2{
+    background:#2CC26B;
+    padding: 8px;
+    text-decoration: none;
+    float: right;
+    text-align: right;
+    display: block;
+    margin-top: 14px;
+}
+
+.menu_section .secondmenu{
+	float:left;
+    color:black;
+}
+
+.copyright{
+	float: left;
+	width: 50%;
+}
+
+.footer_section{
+	width:100%;
+}
+.menu2 {
+float: left;
+width: 50%;
+}
+
+.menu2 ul{
+text-align: right;
+display: block;
+margin: 16px 0px;
+}
+
+.menu2 ul li {
+display: inline-block;
+list-style: outside none none;
+color: #F00;
+padding-left: 5px;
+}
+
+.menu2 ul li a{
+	text-decoration: none;
+	color: rgb(89, 84, 84);
+}
